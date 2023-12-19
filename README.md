@@ -14,15 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 <div style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
-
-<div align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaelkhatri&theme=dracula" /></br>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzaelkhatri&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzaelkhatri&theme=dracula"/>
-</div>
 
 <h2 align='center'><i>Connect with me</i></h2>
 
