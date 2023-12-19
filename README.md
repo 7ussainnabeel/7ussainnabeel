@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <div style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
        style="max-width: 100%;">
+<h2 align='center'><i>Languages and Tools</i></h2>
+  
+![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=windows&logoColor=white&color=yellowgreen)
 
 <h2 align='center'><i>Connect with me</i></h2>
 
