@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="text-align:center">
+  <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
+       style="max-width: 100%;">
+ 
+
+<h2 align='center'><i>⚡ Github Stats</i></h2>
+
+![](https://activity-graph.herokuapp.com/graph?username=7ussainnabeel&theme=react-dark)
+
+<div align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaelkhatri&theme=dracula" /></br>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzaelkhatri&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzaelkhatri&theme=dracula"/>
+</div>
+
+<h2 align='center'><i>Connect with me</i></h2>
+
+<p align="center">
+<a href="https://twitter.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzaelkhatri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussain-nabeel-2482a3102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzaelkhatri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/7ussain_nabeel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzaelkhatri" height="30" width="40" /></a>
+</p>
+
+
+</div>
