@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=windows&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=green)
+![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=blue)
+![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=windows&logoColor=white&color=red)
 
 </div>
 
