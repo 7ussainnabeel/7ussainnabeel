@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=windows&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-kali-informational?style=flat&logo=kali&logoColor=white&color=yellowgreen)
+
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p align="center">
