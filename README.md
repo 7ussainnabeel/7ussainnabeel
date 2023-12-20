@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain ===============================================================================================================================  IT Analyst & Entrepreneur -------------------------  I started learning coding back in 2013 and I always had the passion to work in IT, Earlier this year I joined 01-Edu in Reboot Coding while working as a full time IT Analyst. My current goal is to work as a Cybersecurity Analyst.  * 🌍  I'm based in Bahrain * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hussain-nabeel-2482a3102/) * ✉️  You can contact me at [hnabeel3@gmail.com](mailto:hnabeel3@gmail.com) * 🧠  I'm learning Full Stack Development & Cybersecurity
+<p align='center'>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hussain ===============================================================================================================================  IT Analyst & Entrepreneur -------------------------  I started learning coding back in 2013 and I always had the passion to work in IT, Earlier this year I joined 01-Edu in Reboot Coding while working as a full time IT Analyst. My current goal is to work as a Cybersecurity Analyst.  * 🌍  I'm based in Bahrain * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hussain-nabeel-2482a3102/) * ✉️  You can contact me at [hnabeel3@gmail.com](mailto:hnabeel3@gmail.com) * 🧠  I'm learning Full Stack Development & Cybersecurity</p>
 
 ### Skills  
 
