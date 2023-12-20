@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
+<h1 align="center">![] (![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
   <div align='center'>
     I started learning coding back in 2013 and I always had the passion to work in IT, Earlier this year I joined 01-Edu in Reboot Coding while working as a full time IT Analyst. My current goal is to work as a Cybersecurity Analyst.
     <br>* 🌍  I'm based in Bahrain
-    <br>* 🖥️  See my CV in LinkedIn
-    <br>* 📧  You can contact me at [hnabeel3@gmail.com](mailto:hnabeel3@gmail.com)
-    <br>* 🧠  I'm learning Full Stack Development & Cybersecurity
+    <br>* 🖥️  Have a look at my CV in LinkedIn
+    <br>* 🧠  I'm currently learning Full Stack Development & Cybersecurity
+    <br>* 📧  You can contact me at [hnabeel3@gmail.com]
   </div>
 <h2 align='center'><i>Operating Systems & Services</i></h2>
 
