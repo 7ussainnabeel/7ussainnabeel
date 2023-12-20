@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> 👋🏻 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
+<h1 align="center" src="https://readme-typing-svg.herokuapp.com/?lines=👋🏻 𝙷𝚎𝚕𝚕𝚘!+I'm%20Husain.&font=monoscape%20Code&center=true&width=380&height=50" style="max-width: 100%;"> 👋🏻 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
   <div align='center'>
