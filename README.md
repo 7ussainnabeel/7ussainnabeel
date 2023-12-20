@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
-<h2 align='center'><i>Operating Systems</i></h2>
+<h2 align='center'><i>Operating Systems & Services</i></h2>
 
 <div align="center">
 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=green)
 ![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=windows&logoColor=white&color=red)
+<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e47b3dc7-7bb4-4b46-8a95-234b9369ed3f/deploy-status)](https://app.netlify.com/sites/legendary-stardust-da21a2/deploys)
 
 </div>
 
