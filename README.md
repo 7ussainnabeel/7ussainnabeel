@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <div align='center'>
     I started learning coding back in 2013 and I always had the passion to work in IT, Earlier this year I joined 01-Edu in Reboot Coding while working as a full time IT Analyst. My current goal is to work as a Cybersecurity Analyst.
     <br>* 🌍  I'm based in Bahrain
-    <br>* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hussain-nabeel-2482a3102/)
+    <br>* 🖥️  See my CV in LinkedIn
     <br>* 📧  You can contact me at [hnabeel3@gmail.com](mailto:hnabeel3@gmail.com)
     <br>* 🧠  I'm learning Full Stack Development & Cybersecurity
   </div>
