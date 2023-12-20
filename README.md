@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
+  <div align='center'>
+    I started learning coding back in 2013 and I always had the passion to work in IT, Earlier this year I joined 01-Edu in Reboot Coding while working as a full time IT Analyst. My current goal is to work as a Cybersecurity Analyst.
+    <br>* 🌍  I'm based in Bahrain
+    <br>* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/hussain-nabeel-2482a3102/)
+    <br>* 📧  You can contact me at [hnabeel3@gmail.com](mailto:hnabeel3@gmail.com)
+    <br>* 🧠  I'm learning Full Stack Development & Cybersecurity
+  </div>
 <h2 align='center'><i>Operating Systems & Services</i></h2>
 
 <div align="center">
