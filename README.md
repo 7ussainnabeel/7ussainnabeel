@@ -63,18 +63,24 @@
 <details>
   <summary><b>📈 Stats</b></summary>
 
-<h2 align='center'>Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&layout=compact" alt="7ussainnabeel" />
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&layout=compact" alt="7ussainnabeel" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" /></p>
-</details>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" />
+</p>
+</deatils>
 
 <p align="center">
-<a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍"><img width="500" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/github-snake.svg" /></a>
+  <a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍">
+    <img width="500" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/github-snake.svg" />
+  </a>
 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=flat" alt="7ussainnabeel" /> </p>
 
 
