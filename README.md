@@ -83,6 +83,7 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&theme=dark" alt="7ussainnabeel" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7ussainnabeel&theme=dark" alt="7ussainnabeel" /></a> </p>
+
 </details>
 <!-- Support-->
 <details>
