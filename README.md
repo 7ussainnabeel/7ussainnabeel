@@ -1,22 +1,10 @@
 <h1 align="center" font=monoscape> 👋🏻 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
   <div align='center'>
    I began learning to code in 2013, driven by a passion for IT. Earlier this year, I enrolled in the Reboot Coding program at 01-Edu while continuing my full-time job as an IT Analyst. My current goal is to transition into a role as a Cybersecurity Analyst.
   </div>
-  </details>
-  <!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-  <br>
-  <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
-      
-<blockquote>
-
+  
  👯 I’m currently working on [Docker-Compose-Library](https://github.com/7ussainnabeel/Docker-Compose-Library.git)
 
 🌱 I’m currently learning **Flutter & Fullstack Development & Cybersecurity**
@@ -28,7 +16,19 @@
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hussain-nabeel-2482a3102/)
 
  ⚡ Fun fact **Obsessed with servers and docker containers**
+ </div>
+  <!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+  <br>
+  <p>
+      <img align="right" width="250" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/7ussain_nabeel.png" alt="7ussain_nabeel" />
+      
+<blockquote>
 </details>
+<!-- Skills Section -->
+<details>
+<summary><b>🦾 My Skills</b></summary>
 <h2 align='center'><i>Operating Systems & Services</i></h2>
 
 <div align="center">
@@ -44,7 +44,11 @@
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  </p>
+ </details>
 
+<!-- Contact Section -->
+<details>
+  <summary><b>📇 Contact me</b></summary>
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p align="center">
@@ -53,18 +57,26 @@
 <a href="https://instagram.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
 <a href="https://discord.gg/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
 </p>
+</details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=flat" alt="7ussainnabeel" /> </p>
+<!-- Stats Section -->
+<details>
+  <summary><b>📈 Stats</b></summary>
+
 <h2 align='center'>Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&layout=compact" alt="7ussainnabeel" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" /></p>
+</details>
+
 <p align="center">
-<a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/7ussainnabeel/7ussainnabeel/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍"><img width="500" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/github-snake.svg" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=flat" alt="7ussainnabeel" /> </p>
+
 
 <!--
 **7ussainnabeel/7ussainnabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
