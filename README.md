@@ -5,13 +5,13 @@
    I began learning to code in 2013, driven by a passion for IT. Earlier this year, I enrolled in the Reboot Coding program at 01-Edu while continuing my full-time job as an IT Analyst. My current goal is to transition into a role as a Cybersecurity Analyst.
   </div><br>
   
- 👯 I’m currently working on [Docker-Compose-Library](https://github.com/7ussainnabeel/Docker-Compose-Library.git)
-
 🌱 I’m currently learning **Flutter & Fullstack Development & Cybersecurity**
+
+👯 I’m currently working on [Docker-Compose-Library](https://github.com/7ussainnabeel/Docker-Compose-Library.git)
 
 👯 I’m looking to collaborate on [Docker-Compose-Library](https://github.com/7ussainnabeel/Docker-Compose-Library.git)
 
- 📫 How to reach me **hnabeel3@gmail.com**
+ 📫 How to reach me **[Email](hnabeel3@gmail.com)**
 
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hussain-nabeel-2482a3102/)
 
