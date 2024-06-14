@@ -64,6 +64,7 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 <a href="https://linkedin.com/in/hussain nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain nabeel" height="30" width="40" /></a>
 <a href="https://instagram.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
 <a href="https://discord.gg/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
+
 </p>
 </details>
 
@@ -73,16 +74,15 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&layout=compact" alt="7ussainnabeel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&l&theme=dark&layout=compact" alt="7ussainnabeel" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en&theme=dark" alt="7ussainnabeel" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&theme=dark" alt="7ussainnabeel" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7ussainnabeel" alt="7ussainnabeel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7ussainnabeel&theme=dark" alt="7ussainnabeel" /></a> </p>
 </details>
 <!-- Support-->
 <details>
@@ -98,8 +98,8 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=flat" alt="7ussainnabeel" /> </p>
-</ddiv>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=plastic" alt="7ussainnabeel" /> </p>
+</div>
 
 <!--
 **7ussainnabeel/7ussainnabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
