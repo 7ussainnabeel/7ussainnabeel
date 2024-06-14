@@ -81,8 +81,15 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" />
 </p>
-</details>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7ussainnabeel" alt="7ussainnabeel" /></a> </p>
+</details>
+<!-- Support-->
+<details>
+<summary><b>🤜🏻🤛🏻 Support Me</b></summary>
+<h2 align="Center">💼 Support</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/hnabeel3r"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hnabeel3r" /></a></p><br><br>
+</details>
 <div>
 <!-- Snek --> 
 <p align="center">
