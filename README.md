@@ -73,15 +73,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" />
 </p>
-</deatils>
+<d/etails>
 
-<p align="center">
-  <a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍">
-    <img width="500" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/github-snake.svg" />
-  </a>
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=7ussainnabeel&label=Profile%20views&color=0e75b6&style=flat" alt="7ussainnabeel" /> </p>
 
 
 <!--
