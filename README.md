@@ -29,7 +29,9 @@ I am a mechatronics engineer based in Bahrain 🇧🇭 with a deep passion for t
 
 In my small but powerful homelab, I continuously expand my knowledge in server management and security, hosting nearly all the services I require. This hands-on approach allows me to stay ahead of the curve and maintain a secure and efficient digital environment.
 
-When I'm not at the keyboard, I enjoy spending time with friends, hitting the gym, and exploring the latest Apple products. As a dedicated fan of Apple, most of my daily gadgets come from their innovative lineup.
+Beyond my professional pursuits, I enjoy attending startup events and robotics competitions, where I stay connected with the latest innovations and network with like-minded individuals. 
+
+When I'm not at the keyboard, I spend my time hanging out with friends, hitting the gym, and exploring the latest Apple products. As a dedicated fan of Apple, most of my daily gadgets come from their innovative lineup.
 </blockquote>
 </details>
 <!-- Skills Section -->
