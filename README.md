@@ -1,9 +1,21 @@
 <h1 align="center" font=monoscape> 👋🏻 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Hussain</h1>
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
 <div align="center" style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" style="max-width: 100%;">
   <div align='center'>
    I began learning to code in 2013, driven by a passion for IT. Earlier this year, I enrolled in the Reboot Coding program at 01-Edu while continuing my full-time job as an IT Analyst. My current goal is to transition into a role as a Cybersecurity Analyst.
-  </div><br>
+  </div>
+  </details>
+  <!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+  <br>
+  <p>
+      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      
+<blockquote>
 
  👯 I’m currently working on [Docker-Compose-Library](https://github.com/7ussainnabeel/Docker-Compose-Library.git)
 
@@ -16,7 +28,7 @@
 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hussain-nabeel-2482a3102/)
 
  ⚡ Fun fact **Obsessed with servers and docker containers**
-
+</details>
 <h2 align='center'><i>Operating Systems & Services</i></h2>
 
 <div align="center">
