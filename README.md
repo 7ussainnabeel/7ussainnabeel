@@ -50,6 +50,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en" alt="7ussainnabeel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7ussainnabeel&" alt="7ussainnabeel" /></p>
+<p align="center">
+<a href="https://gitstar-ranking.com/7ussainnabeel" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/7ussainnabeel/7ussainnabeel/master/assets/github-snake.svg" /></a>
+</p>
 
 <!--
 **7ussainnabeel/7ussainnabeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
