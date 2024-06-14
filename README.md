@@ -74,7 +74,7 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&l&theme=dark&layout=compact" alt="7ussainnabeel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7ussainnabeel&show_icons=true&locale=en&l&theme=dark&layout=pie" alt="7ussainnabeel" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=7ussainnabeel&show_icons=true&locale=en&theme=dark" alt="7ussainnabeel" />
