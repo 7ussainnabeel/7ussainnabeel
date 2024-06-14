@@ -25,6 +25,12 @@
       <img align="right" width="250" src="https://github.com/7ussainnabeel/7ussainnabeel/blob/main/assets/7ussain_nabeel.png" alt="7ussain_nabeel" />
       
 <blockquote>
+I am a mechatronics engineer based in Bahrain 🇧🇭 with a deep passion for technology, security, and privacy. My expertise lies in fixing, installing, and setting up servers, laptops, computers, and even iPhones. Driven by a commitment to security and privacy, I run all my necessary services in-house, ensuring complete control and peace of mind.
+
+In my small but powerful homelab, I continuously expand my knowledge in server management and security, hosting nearly all the services I require. This hands-on approach allows me to stay ahead of the curve and maintain a secure and efficient digital environment.
+
+When I'm not at the keyboard, I enjoy spending time with friends, hitting the gym, and exploring the latest Apple products. As a dedicated fan of Apple, most of my daily gadgets come from their innovative lineup.
+</blockquote>
 </details>
 <!-- Skills Section -->
 <details>
