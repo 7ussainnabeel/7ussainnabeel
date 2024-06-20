@@ -89,7 +89,7 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 <details>
 <summary><b>🤜🏻🤛🏻 Support Me</b></summary>
 <h2 align="Center">💼 Support</h2>
-<p align="center"><a href="[https://www.buymeacoffee.com/hnabeel3r](https://www.buymeacoffee.com/hnabeel3r)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hnabeel3r" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/hnabeel3r"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hnabeel3r" /></a></p><br><br>
 </details>
 <div>
 <!-- Snek --> 
