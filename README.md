@@ -60,7 +60,7 @@ When I'm not at the keyboard, I spend my time hanging out with friends, hitting 
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p align="center">
-<a href="https://twitter.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
+<a href="https://x.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussain nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain nabeel" height="30" width="40" /></a>
 <a href="https://instagram.com/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
 <a href="https://discord.gg/7ussain_nabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ussain_nabeel" height="30" width="40" /></a>
